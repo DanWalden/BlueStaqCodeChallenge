@@ -49,9 +49,5 @@ public class ElevatorSim
 	{
 		ElevatorSim.sim = new Simulator(agFloors, bsFloors, aLevel);
 	}
-	
-	public static void closeOut()
-	{
-		ElevatorSim.running = false;
-	}
 }
+
