@@ -15,3 +15,4 @@ Things that could be implemented in the future.
 3. Actual elevator floor prioritization algorithm
 4. Variable elevator capacity
 5. Differing Passeneger behaviors, like choosing to take the stairs after a certain period of time
+6. Dynamic formatting based on the number of floors to ensure the buttons remain readalbe no matter how many floors are created.
